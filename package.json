@@ -1,7 +1,7 @@
 {
   "name": "react-native-tutorial",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
     "start": "expo start",
     "android": "expo start --android",
@@ -9,6 +9,7 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@expo/vector-icons": "^15.0.3",
     "expo": "~54.0.33",
     "expo-image": "~3.0.11",
     "expo-status-bar": "~3.0.9",

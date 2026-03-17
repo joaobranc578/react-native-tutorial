@@ -1,21 +1,29 @@
-# Topicos Importantes
+# Tópicos Importantes
 
 - Qual a linguagem de programação utilizada na disciplina?
 - O que é o Node?
-- O que é framework? qual a diferença pra uma biblioteca?
-- O que é o npm? 
+- O que é Framework e qual a diferença para uma biblioteca?
+- O que é o NPM?
 - O que é React?
 - O que é o React Native?
-- O que é o expo?
-- Como estilizar um componente no react native?
-- O estilo no react Native é igual ao CSS? tenho todas as propriedades?
-- em quais pacotes encontro um componente de imagem? qual melhor para usarmos atualmente?
+- O que é o Expo?
+- Como estilizar um componente no React Native?
+- O estilo CSS in JS no React Native é igual ao CSS Web? Tenho todas as propriedades?
+- Em quais pacotes encontro um componente de Imagem? Qual melhor para usarmos atualmente?
 - O que são propriedades de componentes?
+- O que são Hooks?
 
 Extra
 
-- Revisão de variaveis e objetos
+- Revisão de variáveis e objetos
     - desestruturação de objetos
+
 ## Comandos Uteis
 
+// Como instalar o React Native com Expo?
+
+npx create-expo-app@latest --template
+
 ### Expo
+
+
